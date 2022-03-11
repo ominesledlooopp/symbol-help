@@ -1,0 +1,8 @@
+# script property tells to Velociraptor which scripts are available.
+scripts:
+  # usage : -> vr run linter
+  linter: deno lint ./*
+  # usage : -> vr run format
+  format: deno fmt ./*
+  # usage : -> vr run compile
+  compile: deno compile --output ./build/symbol-help main.ts

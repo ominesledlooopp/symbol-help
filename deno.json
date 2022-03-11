@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "types": [
+      "./src/types/String.d.ts"
+    ]
+  },
+  "lint": {
+    "rules": {
+      "tags": ["recommended"],
+      "include": ["eqeqeq"]
+    }
+  },
+  "fmt": {
+    "files": {
+      "exclude": [
+        "./README.md"
+      ]
+    },
+    "options": {
+      "useTabs": false,
+      "indentWidth": 2,
+      "singleQuote": true
+    }
+  }
+}
