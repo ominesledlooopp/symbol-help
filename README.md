@@ -33,7 +33,7 @@ Hello folks, I'm Simone Del Popolo and I want to introduce my self to the commun
 I started 7 months ago getting to know Node.js and with it, I have speed up my learning curve of Javascript, but since I have begun, I have "discovered" Deno and due to its use of Typescript as "first class language" I promised to my self to give it a chance as soon as ready.  
 So, here I'm, and I have found a nice project to talk about Deno, Typescript and Symbol primitive, that are that kind of types with big question mark on their shoulders.
 
-> source code can be found here ➡ [symbol-help repository](https://github.com/simonedelpopolo/symbol-help)
+> source code can be found here ➡ [symbol-help repository](https://github.com/ominesledlooopp/symbol-help)
 
 ___
 
@@ -266,7 +266,7 @@ ___
 
 ### Object [ symbol-help ] - module
 
-I'm going to break down the file in this post. to read it all go at [symbol-help.ts ➡︎](https://github.com/simonedelpopolo/symbol-help/blob/main/src/symbol-help.ts).
+I'm going to break down the file in this post. to read it all go at [symbol-help.ts ➡︎](https://github.com/ominesledlooopp/symbol-help/blob/main/src/symbol-help.ts).
 
 ___
 
@@ -320,7 +320,7 @@ ___
 
 ### input - module
 
-I'm going to break down the file in this post. to read it all go at [input.ts ➡︎](https://github.com/simonedelpopolo/symbol-help/blob/main/src/input.ts).
+I'm going to break down the file in this post. to read it all go at [input.ts ➡︎](https://github.com/ominesledlooopp/symbol-help/blob/main/src/input.ts).
 
 ___
 
@@ -364,7 +364,7 @@ ___
 
 ### entry-point
 
-I'm going to break down the file in this post. to read it all go at [main.ts ➡︎](https://github.com/simonedelpopolo/symbol-help/blob/main/main.ts).
+I'm going to break down the file in this post. to read it all go at [main.ts ➡︎](https://github.com/ominesledlooopp/symbol-help/blob/main/main.ts).
 
 ___
 
@@ -671,7 +671,7 @@ ___
 
 I enjoyed writing down this post, my very first post.  
 If you would like to interact with me be in touch:  
-Twitter -> @XimoneDelPopolo  
+Twitter -> @ominesledlooopp  
 GitHub -> https://github.com/simonedelpopolo  
 
 **_Have a nice day from Iceland :)_**
